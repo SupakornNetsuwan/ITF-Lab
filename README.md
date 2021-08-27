@@ -1,6 +1,4 @@
-#ITF-Lab 2018
+# ITF-Lab 2018
 
-##Author
+## Author
 นายศุภกร เนตรสุวรรณ 64070108
-
-This is readme
